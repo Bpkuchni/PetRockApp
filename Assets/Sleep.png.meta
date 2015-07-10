@@ -1,7 +1,12 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 guid: 8b6e8a866a0de3f40bc112725f39b6c1
 timeCreated: 1436550977
+=======
+guid: 1732eb9ddadec784196a5da8c8ca432b
+timeCreated: 1436550578
+>>>>>>> origin/Keegan
 =======
 guid: 1732eb9ddadec784196a5da8c8ca432b
 timeCreated: 1436550578
@@ -36,6 +41,7 @@ TextureImporter:
   textureSettings:
     filterMode: -1
 <<<<<<< HEAD
+<<<<<<< HEAD
     aniso: -1
     mipBias: -1
     wrapMode: -1
@@ -45,6 +51,8 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 0
 =======
+=======
+>>>>>>> origin/Keegan
     aniso: 16
     mipBias: -1
     wrapMode: 1
@@ -53,6 +61,9 @@ TextureImporter:
   rGBM: 0
   compressionQuality: 50
   spriteMode: 1
+<<<<<<< HEAD
+>>>>>>> origin/Keegan
+=======
 >>>>>>> origin/Keegan
   spriteExtrude: 1
   spriteMeshType: 1
@@ -61,8 +72,13 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
 <<<<<<< HEAD
+<<<<<<< HEAD
   alphaIsTransparency: 0
   textureType: -1
+=======
+  alphaIsTransparency: 1
+  textureType: 8
+>>>>>>> origin/Keegan
 =======
   alphaIsTransparency: 1
   textureType: 8
