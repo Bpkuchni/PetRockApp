@@ -129,6 +129,7 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f5cb210c3d9ef3d44b740f889270ad5a, type: 3}
   m_IsPrefabParent: 0
+<<<<<<< HEAD
 <<<<<<< HEAD:Assets/Scenes/MainScene.unity
 --- !u!1 &106147819
 GameObject:
@@ -141,6 +142,8 @@ GameObject:
   m_Layer: 0
   m_Name: Grey_Cliff_01
 =======
+=======
+>>>>>>> origin/master
 --- !u!1 &113268544
 GameObject:
   m_ObjectHideFlags: 0
@@ -152,12 +155,16 @@ GameObject:
   - 212: {fileID: 113268545}
   m_Layer: 0
   m_Name: HealthIcon
+<<<<<<< HEAD
 >>>>>>> origin/master:Assets/MainScene.unity
+=======
+>>>>>>> origin/master
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 <<<<<<< HEAD:Assets/Scenes/MainScene.unity
 --- !u!4 &106147820
 Transform:
@@ -172,6 +179,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
 =======
+=======
+>>>>>>> origin/master
 --- !u!212 &113268545
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -210,7 +219,10 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 16
+<<<<<<< HEAD
 >>>>>>> origin/master:Assets/MainScene.unity
+=======
+>>>>>>> origin/master
 --- !u!1001 &263630340
 Prefab:
   m_ObjectHideFlags: 0
